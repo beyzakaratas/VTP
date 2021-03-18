@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dört İşlem", "Dört İşlem\Dört İşlem.csproj", "{6BABDB44-FE6A-4CD4-A63D-A21CF79366C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kayıt Formu", "Kayıt Formu\Kayıt Formu.csproj", "{10136B47-C352-4261-8491-92E080376186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BABDB44-FE6A-4CD4-A63D-A21CF79366C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BABDB44-FE6A-4CD4-A63D-A21CF79366C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BABDB44-FE6A-4CD4-A63D-A21CF79366C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BABDB44-FE6A-4CD4-A63D-A21CF79366C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10136B47-C352-4261-8491-92E080376186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10136B47-C352-4261-8491-92E080376186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10136B47-C352-4261-8491-92E080376186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10136B47-C352-4261-8491-92E080376186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB772EB-4DBB-4283-BB65-6B11C0198E3A}
+	EndGlobalSection
+EndGlobal
